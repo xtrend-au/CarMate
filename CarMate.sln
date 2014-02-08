@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarMate.API", "CarMate.API\CarMate.API.csproj", "{BEAC94A2-24CE-4881-BB02-BBAE788DC1A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarMate.Common", "CarMate.Common\CarMate.Common.csproj", "{62251B05-E88A-4D6C-A406-18245BE75EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarMate.Repository", "CarMate.Repository\CarMate.Repository.csproj", "{E566096A-CE9F-4775-A627-C82D534EB950}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://xtrend.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CarMate.API\\CarMate.API.csproj
+		SccProjectName1 = CarMate.API
+		SccLocalPath1 = CarMate.API
+		SccProjectUniqueName2 = CarMate.Common\\CarMate.Common.csproj
+		SccProjectName2 = CarMate.Common
+		SccLocalPath2 = CarMate.Common
+		SccProjectUniqueName3 = CarMate.Repository\\CarMate.Repository.csproj
+		SccProjectName3 = CarMate.Repository
+		SccLocalPath3 = CarMate.Repository
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEAC94A2-24CE-4881-BB02-BBAE788DC1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAC94A2-24CE-4881-BB02-BBAE788DC1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAC94A2-24CE-4881-BB02-BBAE788DC1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAC94A2-24CE-4881-BB02-BBAE788DC1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62251B05-E88A-4D6C-A406-18245BE75EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62251B05-E88A-4D6C-A406-18245BE75EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62251B05-E88A-4D6C-A406-18245BE75EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62251B05-E88A-4D6C-A406-18245BE75EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E566096A-CE9F-4775-A627-C82D534EB950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E566096A-CE9F-4775-A627-C82D534EB950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E566096A-CE9F-4775-A627-C82D534EB950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E566096A-CE9F-4775-A627-C82D534EB950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

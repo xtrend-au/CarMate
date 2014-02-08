@@ -1,0 +1,4 @@
+C:\XTrend\CarMate\CarMate.Common\bin\Debug\CarMate.Common.dll
+C:\XTrend\CarMate\CarMate.Common\bin\Debug\CarMate.Common.pdb
+C:\XTrend\CarMate\CarMate.Common\obj\Debug\CarMate.Common.dll
+C:\XTrend\CarMate\CarMate.Common\obj\Debug\CarMate.Common.pdb

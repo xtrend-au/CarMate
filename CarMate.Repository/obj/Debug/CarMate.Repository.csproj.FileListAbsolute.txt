@@ -1,0 +1,4 @@
+C:\XTrend\CarMate\CarMate.Repository\bin\Debug\CarMate.Repository.dll
+C:\XTrend\CarMate\CarMate.Repository\bin\Debug\CarMate.Repository.pdb
+C:\XTrend\CarMate\CarMate.Repository\obj\Debug\CarMate.Repository.dll
+C:\XTrend\CarMate\CarMate.Repository\obj\Debug\CarMate.Repository.pdb
