@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace CarMate.Repository
 {
+    /// <summary>
+    /// Test
+    /// </summary>
     public class Class1
     {
     }
